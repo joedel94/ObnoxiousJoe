@@ -1,0 +1,26 @@
+{
+    "debug.openDebug": "neverOpen",
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "none",
+    "editor.tabCompletion": "on",
+    "editor.wordBasedSuggestions": "off",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.snippetSuggestions": "none",
+    "files.defaultLanguage": "powershell",
+    "git.ignoreMissingGitWarning": true,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "powershell.buttons.showPanelMovementButtons": true,
+    "powershell.scriptAnalysis.enable": true,
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "PowerShell ISE",
+    "powershell.powerShellDefaultVersion": "pwsh.exe",
+    "terminal.integrated.tabs.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "git.confirmSync": true,
+    "diffEditor.renderSideBySide": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "powershell.powerShellAdditionalExePaths": {
+        "pwsh.exe": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+    }
+}
