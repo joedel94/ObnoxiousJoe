@@ -16,7 +16,7 @@
     "powershell.powerShellDefaultVersion": "pwsh.exe",
     "terminal.integrated.tabs.enabled": false,
     "git.openRepositoryInParentFolders": "never",
-    "git.confirmSync": true,
+    "git.confirmSync": false,
     "diffEditor.renderSideBySide": true,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
