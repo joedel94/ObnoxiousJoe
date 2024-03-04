@@ -21,7 +21,7 @@
     [CmdletBinding()]
     Param (
         [Parameter(Mandatory = $false)]
-        [string]$Path = 'C:\Program Files (x86)\Plex\Plex Media Server'
+        [string]$Path = 'C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe'
     )
 
     $ErrorActionPreference = 'Stop'
