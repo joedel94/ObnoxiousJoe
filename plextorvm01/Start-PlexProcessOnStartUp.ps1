@@ -20,7 +20,7 @@
 
     [CmdletBinding()]
     Param (
-        [Parmeter(Mandatory = $false)]
+        [Parameter(Mandatory = $false)]
         [string]$Path = 'C:\Program Files (x86)\Plex\Plex Media Server'
     )
 
